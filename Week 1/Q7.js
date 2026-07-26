@@ -1,6 +1,5 @@
 // Loops Problem
 
-
 for (let i = 5; i < 4; i++) {
     console.log(i)
 } 
