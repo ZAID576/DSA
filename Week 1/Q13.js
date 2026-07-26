@@ -1,4 +1,4 @@
-// Q) write a function that searches for an element in an array and return the index, if the element is not present then just return -1
+// Q) write a function that searches for an element in an array and return the index, if the element is not present then just return -1 [Array + Loops Question]
 
 function searchElement(arr, x) {
     
