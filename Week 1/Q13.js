@@ -1,6 +1,5 @@
 // Q) write a function that searches for an element in an array and return the index, if the element is not present then just return -1
 
-
 function searchElement(arr, x) {
     
     for (let i = 0; i < arr.length; i++){
